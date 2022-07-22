@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofia Escobar👩🏽‍💻</h1>
 <h3 align="center">A passionate frontend developer from Argentina🇦🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=escobar23&label=Profile%20views&color=0e75b6&style=flat" alt="escobar23" /> </p>
+
 
 
 - 🔭 I’m currently working on [Datatable](https://github.com/Escobar23/Datatable)
