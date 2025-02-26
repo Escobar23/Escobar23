@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://escobarsofiaportfolio.netlify.app/](https://escobarsofiaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [)
 
 - 📫 How to reach me **sofiaescobar97472@gmail.com**
 
